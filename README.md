@@ -6,7 +6,7 @@ Table of contents
   - [What is a Cat?](#what-is-a-cat)
     - [Positives of owning a cat:](#positives-of-owning-a-cat)
     - [Negatives of owning a cat:](#negatives-of-owning-a-cat)
-    - [These are a few cat breeds](#these-are-a-few-cat-breeds)
+    - [These are a few cat breeds?](#these-are-a-few-cat-breeds)
 
 ## What is a Cat?
 
@@ -26,9 +26,9 @@ A cat also can be reffered as to a domestic cat or house cat is a carnivorous ma
 - cat hair can everywhere
 - cats can often be standoffish
 - vet bills
-- responsibilty - subjective
+- responsibilty - subjective?
 
-### These are a few cat breeds
+### These are a few cat breeds?
 
 1. Turkish Angora
 
