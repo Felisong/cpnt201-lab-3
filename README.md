@@ -26,7 +26,7 @@ A cat also can be reffered as to a domestic cat or house cat is a carnivorous ma
 - cat hair can everywhere
 - cats can often be standoffish
 - vet bills
-- responsibilty - subjective
+- responsibilty - subjective!
 
 ### These are a few cat breeds
 
