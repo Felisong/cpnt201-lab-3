@@ -2,6 +2,8 @@
 
 ## cats pee all over
 
+### Positives of owning a cat:
+
 - cats are always there for you whenever you need someone to comfort you
 - cats really fluffy
 - cats are very food motivated
