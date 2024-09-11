@@ -8,8 +8,6 @@ Table of contents
     - [Negatives of owning a cat:](#negatives-of-owning-a-cat)
     - [These are a few cat breeds](#these-are-a-few-cat-breeds)
 
-cats pee all over
-
 ## What is a Cat?
 
 A cat also can be reffered as to a domestic cat or house cat is a carnivorous mammal long domesticated and kept as a pet or for catching rats and mice.
