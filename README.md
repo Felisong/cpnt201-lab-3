@@ -14,7 +14,7 @@ A cat also can be reffered as to a domestic cat or house cat is a carnivorous ma
 - cats are always there for you whenever you need someone to comfort you
 - cats really fluffy
 - cats are very food motivated
-- i have 19 cats
+- i have too many cats
 - wait i have 20 cats
 
 ### Negatives of owning a cat:
