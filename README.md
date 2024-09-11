@@ -1,5 +1,9 @@
 # Why cats are beautiful and good.
 
+### Table of contents
+
+- [positives of owning a cat](#positives-of-owning-a-cat)
+
 ## cats pee all over
 
 ##What is a Cat?
@@ -30,5 +34,6 @@ There are many cat breeds that are cute.
 2. American Curl
 3. Berman
 4. Bengal
+5. Kinten - ![Carolina's cat](pictures-to-add/cat1.jpg)
 
 [link to cat breeds](https://basepaws.com/cat-breeds)
