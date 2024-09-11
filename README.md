@@ -40,7 +40,7 @@ From better cardiovascular health and a decreased tendency to develop allergies 
    ![Turkish Angora](https://e7.pngegg.com/pngimages/931/994/png-clipart-yellow-eyed-white-cat-turkish-angora-ragdoll-turkish-van-kitten-white-kitten-animals-cat-like-mammal-thumbnail.png)
 
 2. American Curl
-3. Berman
+3. Berman ![berman cat](picturestoadd/cat-whisky.webp)
 4. Bengal
 5. Kinten - ![Carolina's cat](pictures-to-add/cat1.jpg)
 
