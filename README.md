@@ -1,12 +1,15 @@
 # Why cats are beautiful and good.
 
-### Table of contents
+Table of contents
 
-- [positives of owning a cat](#positives-of-owning-a-cat)
+- [Why cats are beautiful and good.](#why-cats-are-beautiful-and-good)
+  - [What is a Cat?](#what-is-a-cat)
+    - [Positives of owning a cat:](#positives-of-owning-a-cat)
+    - [Negatives of owning a cat:](#negatives-of-owning-a-cat)
+    - [These are a few cat breeds](#these-are-a-few-cat-breeds)
 
-## cats pee all over
+## What is a Cat?
 
-##What is a Cat?
 A cat also can be reffered as to a domestic cat or house cat is a carnivorous mammal long domesticated and kept as a pet or for catching rats and mice.
 
 ### Positives of owning a cat:
@@ -25,8 +28,7 @@ A cat also can be reffered as to a domestic cat or house cat is a carnivorous ma
 - vet bills
 - responsibilty - subjective
 
-There are many cat breeds that are cute.
-
+### These are a few cat breeds
 1. Turkish Angora
 
    ![Turkish Angora](https://e7.pngegg.com/pngimages/931/994/png-clipart-yellow-eyed-white-cat-turkish-angora-ragdoll-turkish-van-kitten-white-kitten-animals-cat-like-mammal-thumbnail.png)
