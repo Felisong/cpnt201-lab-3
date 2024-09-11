@@ -5,7 +5,7 @@ Table of contents
 - [Why cats are beautiful and good.](#why-cats-are-beautiful-and-good)
   - [What is a Cat?](#what-is-a-cat)
     - [Positives of owning a cat:](#positives-of-owning-a-cat)
-    - [Negatives of owning a cat:](#negatives-of-owning-a-cat)
+    - [Negatives of owning a cat (none):](#negatives-of-owning-a-cat-none)
     - [These are a few cat breeds?](#these-are-a-few-cat-breeds)
 
 ## What is a Cat?
@@ -20,7 +20,7 @@ A cat also can be reffered as to a domestic cat or house cat is a carnivorous ma
 - i have 19 cats
 - unlimited cats
 
-### Negatives of owning a cat:
+### Negatives of owning a cat (none):
 
 - litter box maintenance
 - cat hair can everywhere
