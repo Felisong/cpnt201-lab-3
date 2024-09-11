@@ -1,10 +1,13 @@
 # Why cats are beautiful and good.
 
-### Table of contents
+Table of contents
 
-- [positives of owning a cat](#positives-of-owning-a-cat)
+- [Why cats are beautiful and good.](#why-cats-are-beautiful-and-good)
+  - [Positives of owning a cat:](#positives-of-owning-a-cat)
+  - [Negatives of owning a cat:](#negatives-of-owning-a-cat)
+  - [These are a few cat breeds](#these-are-a-few-cat-breeds)
 
-## cats pee all over
+cats pee all over
 
 ### Positives of owning a cat:
 
@@ -12,7 +15,7 @@
 - cats really fluffy
 - cats are very food motivated
 - i have 19 cats
-- wait i have 20 cats
+- unlimited cats
 
 ### Negatives of owning a cat:
 
@@ -22,7 +25,7 @@
 - vet bills
 - responsibilty - subjective
 
-There are many cat breeds that are cute.
+### These are a few cat breeds
 
 1. Turkish Angora
 
