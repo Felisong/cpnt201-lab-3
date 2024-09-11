@@ -4,10 +4,8 @@ Table of contents
 
 - [Why cats are beautiful and good.](#why-cats-are-beautiful-and-good)
   - [What is a Cat?](#what-is-a-cat)
-  - [Why should you own a cat?](#why-should-you-own-a-cat)
-    - [Positives of owning a cat:](#positives-of-owning-a-cat)
-    - [Negatives of owning a cat (none):](#negatives-of-owning-a-cat-none)
-    - [These are a few cat breeds!!!! (all cute)](#these-are-a-few-cat-breeds-all-cute)
+  - [Why should you own a cat?](#why-should-you-own-a-cat) - [Positives of owning a cat:](#positives-of-owning-a-cat) - [Negatives of owning a cat (none):](#negatives-of-owning-a-cat-none) - [These are a few cat breeds](#these-are-a-few-cat-breeds)
+    > > > > > > > c2693b43be04435803696f1458b90f8e31647c04
 
 ## What is a Cat?
 
@@ -33,7 +31,7 @@ From better cardiovascular health and a decreased tendency to develop allergies 
 - vet bills
 - responsibilty - subjective?
 
-### These are a few cat breeds!!!! (all cute)
+### These are a few cat breeds
 
 1. Turkish Angora
 
