@@ -12,6 +12,12 @@
 
 ### Negatives of owning a cat:
 
+- litter box maintenance
+- cat hair can everywhere
+- cats can often be standoffish
+- vet bills
+- responsibilty - subjective
+
 There are many cat breeds that are cute.
 
 1. Turkish Angora
