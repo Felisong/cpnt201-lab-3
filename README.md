@@ -7,7 +7,7 @@ Table of contents
   - [Why should you own a cat?](#why-should-you-own-a-cat)
     - [Positives of owning a cat:](#positives-of-owning-a-cat)
     - [Negatives of owning a cat (none):](#negatives-of-owning-a-cat-none)
-    - [These are a few cat breeds?](#these-are-a-few-cat-breeds)
+    - [These are a few cat breeds](#these-are-a-few-cat-breeds)
 
 ## What is a Cat?
 
@@ -33,7 +33,7 @@ From better cardiovascular health and a decreased tendency to develop allergies 
 - vet bills
 - responsibilty - subjective?
 
-### These are a few cat breeds?
+### These are a few cat breeds
 
 1. Turkish Angora
 
