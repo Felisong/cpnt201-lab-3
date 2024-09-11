@@ -2,6 +2,9 @@
 
 ## cats pee all over
 
+##What is a Cat?
+A cat also can be reffered as to a domestic cat or house cat is a carnivorous mammal long domesticated and kept as a pet or for catching rats and mice.
+
 ### Positives of owning a cat:
 
 - cats are always there for you whenever you need someone to comfort you
