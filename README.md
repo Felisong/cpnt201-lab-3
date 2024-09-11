@@ -3,13 +3,15 @@
 Table of contents
 
 - [Why cats are beautiful and good.](#why-cats-are-beautiful-and-good)
-  - [Positives of owning a cat:](#positives-of-owning-a-cat)
-  - [Negatives of owning a cat:](#negatives-of-owning-a-cat)
-  - [These are a few cat breeds](#these-are-a-few-cat-breeds)
+  - [What is a Cat?](#what-is-a-cat)
+    - [Positives of owning a cat:](#positives-of-owning-a-cat)
+    - [Negatives of owning a cat:](#negatives-of-owning-a-cat)
+    - [These are a few cat breeds](#these-are-a-few-cat-breeds)
 
 cats pee all over
 
-##What is a Cat?
+## What is a Cat?
+
 A cat also can be reffered as to a domestic cat or house cat is a carnivorous mammal long domesticated and kept as a pet or for catching rats and mice.
 
 ### Positives of owning a cat:
